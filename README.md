@@ -42,3 +42,5 @@ This is a simple Java-based Expense Tracker application that allows users to man
 ₱ list
 ₱ summary
 ₱ quit
+
+https://github.com/xdrlp/Expense-Tracker-CLI/tree/master

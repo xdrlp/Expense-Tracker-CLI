@@ -69,6 +69,7 @@ public class Main {
         System.out.println("list - List all expenses");
         System.out.println("summary - Get a summary of all expenses");
         System.out.println("summary --month <month> - Get a summary of expenses for a specific month");
+        System.out.println("quit - To exit the program");
         System.out.println("help - Show this help message");
     }
 }

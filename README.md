@@ -2,6 +2,8 @@
 
 This is a simple Java-based Expense Tracker application that allows users to manage their expenses. Users can add, update, delete, and list expenses. The application also provides a summary of total expenses and a summary of expenses for a specific month.
 
+[https://github.com/xdrlp/Expense-Tracker-CLI/tree/master](https://roadmap.sh/projects/expense-tracker)
+
 ## Features
 - Add new expenses with a description and amount.
 - Update existing expenses by ID.
@@ -43,5 +45,4 @@ This is a simple Java-based Expense Tracker application that allows users to man
 ₱ summary
 ₱ quit
 
-[https://github.com/xdrlp/Expense-Tracker-CLI/tree/master](https://roadmap.sh/projects/expense-tracker)
-[GitHub](https://github.com)
+
